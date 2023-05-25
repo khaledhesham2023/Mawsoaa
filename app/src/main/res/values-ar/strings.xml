@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">موسوعة</string>
+    <string name="welcome_statement">مرحباً بك في تطبيق موسوعة</string>
+    <string name="login_mawardy">التسجيل باستخدام حساب موسوعة</string>
+    <string name="login_google">التسجيل باستخدام حساب Google</string>
+    <string name="login_facebook">التسجيل باستخدام حساب Facebook</string>
+
+    <string name="facebook_application_id" translatable="false">APP_ID</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fbAPP_ID</string>
+    <string name="e_mail">البريد الالكتروني</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="start">ابدأ</string>
+    <string name="mawrady_login">التسجيل باستخدام حساب موسوعة</string>
+    <string name="log_out">تسجيل الخروج</string>
+    <string name="confirm_logout">هل أنت متأكد من رغبتك في تسجيل الخروج ؟</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="cancel">تراجع</string>
+    <string name="select_a_category">اختر فئة</string>
+    <string name="mute">كتم الصوت</string>
+    <string name="unmute">الغاء كتم الصوت</string>
+    <string name="categories">الفئات</string>
+    <string name="topics">الموضوعات</string>
+    <string name="details">تفاصيل الموضوع</string>
+    <string name="info">تطبيق Mawsoaa هو تطبيق عبارة عن موسوعة حول مواضيع مختلفة لفئات مختلفة إما: حيوانات ، مشاهير ، طيور ، نباتات ... إلخ.
+        مصادر:
+        1) ويكيبيديا ، الموسوعة الحرة.
+        2) بريتانيكا الموسوعة البريطانية.
+        3) كتب المورد لمنير البعلبكي.</string>
+    <string name="about">عن التطبيق</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="confirm_language">هل أنت متأكد من رغبتك في تغيير اللغة ؟</string>
+    <string name="confirm">تأكيد</string>
+    <string name="search">بحث</string>
+    <string name="tap_to_search">انقر للبحث</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot_your_password">نسيت كلمة المرور</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="guest_mode">وضع الزائر</string>
+    <string name="not_have_an_account_create_new">لا يوجد لديك حساب..تسجيل جديد ؟</string>
+    <string name="e_mail_required_error">البريد الالكتروني مطلوب</string>
+    <string name="password_required_error">كلمة المرور مطلوبة</string>
+    <string name="animals">حيوانات</string>
+    <string name="birds">طيور</string>
+    <string name="diseases">أمراض</string>
+    <string name="fish">أسماك</string>
+    <string name="flowers">زهور</string>
+    <string name="fruits">فواكه</string>
+    <string name="gems">أحجار كريمة</string>
+    <string name="islamics">اسلاميات</string>
+    <string name="proverbs">أقوال مأثورة</string>
+    <string name="vegetables">خضراوات</string>
+    <string name="famous">مشاهير</string>
+    <string name="astronomy">فلك</string>
+    <string name="medicine">طب</string>
+    <string name="computer">علوم الحاسب</string>
+    <string name="monuments">أثار</string>
+    <string name="disasters">كوارث</string>
+    <string name="desserts">حلويات</string>
+    <string name="more_coming_soon">قريبا</string>
+    <string name="click_on_the_tab_above_to_start_searching">انقر على الشريط بالأعلى لتبدأ البحث</string>
+    <string name="error_search">لا توجد موضوعات بالاسم المدرج. حاول مرة أخرى..؟</string>
+    <string name="admin">الأدمن</string>
+    <string name="category_title">الفئة</string>
+    <string name="topic_description_en">وصف الموضوع (باللغة الانجليزية)</string>
+    <string name="topic_description_ar">وصف الموضوع (باللغة العربية)</string>
+    <string name="description">الوصف</string>
+    <string name="english_details_label">التفاصيل (باللغة الانجليزية)</string>
+    <string name="details_hint">التفاصيل</string>
+    <string name="arabic_details_label">التفاصيل (باللغة العربية)</string>
+    <string name="image_url">رابط صورة</string>
+    <string name="url">الرابط</string>
+    <string name="map_url">رابط الخريطة</string>
+    <string name="thumbnail_url">رابط الايقونة</string>
+    <string name="english_title">العنوان (باللغة الانجليزية)</string>
+    <string name="arabic_title">العنوان (باللغة العربية)</string>
+    <string name="error_loading_search_results">خطأ أثناء تحميل نتائج البحث..حاول مرة أخرى ؟؟</string>
+    <string name="title">اسم الموضوع</string>
+    <string name="error_loading_topics">خطأ أثناء تحميل الموضوعات..حاول مرة أخرى ؟؟</string>
+    <string name="signup">انشاء حساب</string>
+    <string name="firstname">الاسم الأول</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="lastname">اسم العائلة</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="create_new_account">انشاء حساب جديد</string>
+    <string name="already_have_an_account_sign_in">لديك حساب بالفعل..تسجيل الدخول ؟؟</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="username_required_error">مطلوب ادخال اسم المستخدم</string>
+    <string name="firstname_required_error">مطلوب ادخال الاسم الأول</string>
+    <string name="phone_required_error">مطلوب ادخال رقم الهاتف</string>
+    <string name="phone_length_error">رقم الهاتف لا يزيد و لا يقل عن 11 رقم</string>
+    <string name="not_matching">غير متطابقين</string>
+    <string name="confirm_password_required_error">مطلوب تأكيد ادخال كلمة المرور</string>
+    <string name="error_during_loading_category_tap_to_retry">خطأ أثناء تحميل الفئات .. انقر هنا لمحاولة مرة أخرى</string>
+    <string name="no_category_error">لا توجد فئات متاحة</string>
+    <string name="lastname_required_error">مطلوب ادخال اسم العائلة</string>
+    <string name="error_during_loading_topics_tap_to_retry">خطأ أثناء تحميل الموضوعات .. انقر هنا لمحاولة مرة أخرى</string>
+
+
+</resources>

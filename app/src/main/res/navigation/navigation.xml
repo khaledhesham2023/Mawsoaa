@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/categoryFragment">
+
+    <fragment
+        android:id="@+id/categoryFragment"
+        android:name="com.khaledamin.mawsoaa.category.CategoryFragment"
+        android:label="@string/categories"
+        tools:layout="@layout/fragment_category">
+        <action
+            android:id="@+id/action_categoryFragment_to_topicsFragment"
+            app:destination="@id/topicsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/topicsFragment"
+        android:name="com.khaledamin.mawsoaa.topics.TopicsFragment"
+        android:label="@string/topics"
+        tools:layout="@layout/fragment_topics">
+        <action
+            android:id="@+id/action_topicsFragment_to_topicDetailsFragment"
+            app:destination="@id/topicDetailsFragment" />
+        <argument
+            android:name="category"
+            app:argType="com.khaledamin.mawsoaa.models.Category" />
+    </fragment>
+    <fragment
+        android:id="@+id/topicDetailsFragment"
+        android:name="com.khaledamin.mawsoaa.topicdetails.TopicDetailsFragment"
+        android:label="@string/details"
+        tools:layout="@layout/fragment_topic_details">
+        <argument
+            android:name="topic"
+            app:argType="com.khaledamin.mawsoaa.models.Topic" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.khaledamin.mawsoaa.AboutFragment"
+        android:label="@string/about"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.khaledamin.mawsoaa.search.SearchFragment"
+        android:label="@string/search"
+        tools:layout="@layout/fragment_search">
+        <action
+            android:id="@+id/action_searchFragment_to_topicDetailsFragment"
+            app:destination="@id/topicDetailsFragment" />
+    </fragment>
+    <action android:id="@+id/action_global_searchFragment"
+        app:destination="@id/searchFragment" />
+    <fragment
+        android:id="@+id/adminFragment"
+        android:name="com.khaledamin.mawsoaa.admin.AdminFragment"
+        android:label="@string/admin" />
+</navigation>

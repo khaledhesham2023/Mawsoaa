@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Mawsoaa</string>
+    <string name="welcome_statement">Welcome to Mawrdy App</string>
+    <string name="login_mawardy">LOG IN USING A MAWARDY ACCOUNT</string>
+    <string name="login_google">LOG IN USING A GOOGLE ACCOUNT</string>
+    <string name="login_facebook">LOG IN USING A FACEBOOK ACCOUNT</string>
+
+    <string name="facebook_application_id" translatable="false">APP_ID</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fbAPP_ID</string>
+    <string name="e_mail">E-mail</string>
+    <string name="login">Log In</string>
+    <string name="start">Start</string>
+    <string name="mawrady_login">Mawsoaa Log in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="log_out">Log out</string>
+    <string name="confirm_logout">Are you sure you want to log out ?</string>
+    <string name="logout">Log out</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_a_category">Select a Category</string>
+    <string name="mute">mute</string>
+    <string name="unmute">unmute</string>
+    <string name="categories">Categories</string>
+    <string name="topics">Topics</string>
+    <string name="details">Details</string>
+    <string name="info">The Mawsoaa App is an application which is an encyclopedia about different topics of different categories either: Animals, famous persons, birds, plants...etc.
+        Sources:
+        1) Wikipedia, the free encyclopedia.
+        2) Britannica, the British encyclopedia.
+        3) El-Mawred books, by Mounir Al-Baalbaky.</string>
+    <string name="about">About</string>
+    <string name="change_language">Change Language</string>
+    <string name="confirm_language">Are you sure you want to change language ?</string>
+    <string name="confirm">Confirm</string>
+    <string name="search">Search</string>
+    <string name="tap_to_search">Tap to Search</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password</string>
+    <string name="log_in">Log In</string>
+    <string name="guest_mode">Guest Mode</string>
+    <string name="not_have_an_account_create_new">Not have any account..Create New ?</string>
+    <string name="e_mail_required_error">E-mail is required</string>
+    <string name="password_required_error">Password is required</string>
+    <string name="animals">Animals</string>
+    <string name="birds">Birds</string>
+    <string name="diseases">Diseases</string>
+    <string name="fish">Fish</string>
+    <string name="flowers">Flowers</string>
+    <string name="fruits">Fruits</string>
+    <string name="gems">Gems</string>
+    <string name="islamics">Islamics</string>
+    <string name="proverbs">Proverbs</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="famous">Famous</string>
+    <string name="astronomy">Astronomy</string>
+    <string name="medicine">Medicine</string>
+    <string name="computer">Computer Science</string>
+    <string name="monuments">Monuments</string>
+    <string name="disasters">Disasters</string>
+    <string name="desserts">Desserts</string>
+    <string name="more_coming_soon">Coming Soon</string>
+    <string name="click_on_the_tab_above_to_start_searching">Click on the tab above to start searching</string>
+    <string name="error_search">No topics with searched word. Try Again ..?</string>
+    <string name="admin">Admin</string>
+    <string name="category_title">Category</string>
+    <string name="topic_description_en">Topic Description (in English)</string>
+    <string name="topic_description_ar">Topic Description (in Arabic)</string>
+    <string name="description">Description</string>
+    <string name="english_details_label">Details (in English)</string>
+    <string name="details_hint">Details</string>
+    <string name="arabic_details_label">Details (in Arabic)</string>
+    <string name="image_url">Image URL</string>
+    <string name="url">URL</string>
+    <string name="map_url">Map URL</string>
+    <string name="thumbnail_url">Thumbnail URL</string>
+    <string name="english_title">Title (in English)</string>
+    <string name="arabic_title">Title (in Arabic)</string>
+    <string name="title">Title</string>
+    <string name="error_loading_search_results">Error during loading results, Try Again..??</string>
+    <string name="error_loading_topics">Error during loading topics..Try Again??</string>
+    <string name="signup">Sign Up</string>
+    <string name="firstname">First Name</string>
+    <string name="phone">Phone</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">E-Mail</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="already_have_an_account_sign_in">Already have an account..Log In ??</string>
+    <string name="username">Username</string>
+    <string name="username_required_error">Username is required</string>
+    <string name="firstname_required_error">First Name is required</string>
+    <string name="lastname_required_error">Last Name is required</string>
+    <string name="phone_required_error">Phone Number is required</string>
+    <string name="phone_length_error">Phone number shouldn\'t be more or less than 11 numbers</string>
+    <string name="not_matching">Not matched</string>
+    <string name="confirm_password_required_error">Confirming password is required</string>
+    <string name="error_during_loading_category_tap_to_retry">Error during loading categories. Tap here to retry.</string>
+    <string name="no_category_error">No available categories</string>
+    <string name="error_during_loading_topics_tap_to_retry">Error during loading topics. Tap here to retry.</string>
+
+
+
+</resources>
