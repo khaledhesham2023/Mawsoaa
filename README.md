@@ -10,7 +10,6 @@
 ![Screenshot_2023-05-25-16-26-59-40_f837164ca7768c1e62740c54b9c39b6c](https://github.com/khaledhesham2023/Mawsoaa/assets/95777100/d050ba72-f821-4508-8227-65d38ef172be)
 ![Screenshot_2023-05-25-16-27-29-68_f837164ca7768c1e62740c54b9c39b6c](https://github.com/khaledhesham2023/Mawsoaa/assets/95777100/21c97705-97ae-4c73-9f8a-269aebee1887)
 ![Screenshot_2023-05-25-16-27-42-97_f837164ca7768c1e62740c54b9c39b6c](https://github.com/khaledhesham2023/Mawsoaa/assets/95777100/f8a36b36-c7c3-4513-931e-70c166c87811)
-![Screenshot_2023-05-25-16-27-48-65_f837164ca7768c1e62740c54b9c39b6c](https://github.com/khaledhesham2023/Mawsoaa/assets/95777100/4fd20627-828a-4c23-a514-58510bd3338e)
 
 
 ## What is used in this application ?
